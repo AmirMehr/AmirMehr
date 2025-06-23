@@ -7,7 +7,7 @@
 
 - 💻 Portfolio [https://amirmehr.github.io/](https://amirmehr.github.io/)
   
-- 👨‍💻 All of my projects are available at [https://github.com/AmirMehr](https://github.com/AmirMehr)
+- 👨‍💻 All of my projects are available at [https://github.com/AmirMehr](https://github.com/AmirMehr) absolutely you can not see private ones 😅
 
 - 📝 I am proud of this project [https://hoobi.ir/home_design](https://hoobi.ir/home_design)
 
