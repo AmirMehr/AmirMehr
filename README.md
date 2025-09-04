@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amir Mehrnam</h1>
 <h3 align="center">A Passionate Fullstack Web and Mobile Developer From Iran</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmehr&label=Profile%20views&color=0e75b6&style=flat" alt="amirmehr" /> </p>
+
+
 
 - 🌱 I’m currently learning **Kubernetes**
 
